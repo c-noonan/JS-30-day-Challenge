@@ -11,8 +11,6 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 ## Community #JavaScript30 Content
 
-Feel free to submit a PR adding a link to your own recaps, guides or reviews!
-
 * [Arjun Khode’s blog](http://thesagittariusme.blogspot.com/search/label/JS30) about summaries for each day, including fixed glitches, bugs and extra features
 * [Nitish Dayal's Text Guides](https://github.com/nitishdayal/JavaScript30) are great for those who like reading over watching
 * [Meredith Underell's](http://meredithunderell.com/tag/javascript30/) Quick Lessons Learned
@@ -39,10 +37,10 @@ Feel free to submit a PR adding a link to your own recaps, guides or reviews!
 * [GuaHsu](https://github.com/guahsu/JavaScript30) - 紀錄各篇練習過程與心得，並嘗試擴充部分練習，也做了一個包含全部練習的[介紹站](http://guahsu.io/JavaScript30/)🇹🇼 
 * [Daniela](https://github.com/misslild)'s completed challenges on [GitHub Pages](https://misslild.github.io/WesBos-30day-Coding-challenge/) and [Codepen](https://codepen.io/collection/DapZeP/) :raised_hands: :muscle: :+1:
 
-## A note on Pull Requests
+<!-- ## A note on Pull Requests
 
 These are meant to be 1:1 copies of what is done in the video. If you found a better / different way to do things, great, but I will be keeping them the same as the videos.
 
 The starter files + solutions will be updated if/when the videos are updated.
 
-Thanks!
+Thanks! -->
