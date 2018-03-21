@@ -1,3 +1,6 @@
+A JavaScript challenge where you build something new each day (exercises from javascript30.com [FINISHED.html files are solutions provided by the creator Wes Bos as described below]).
+
+
 ![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
