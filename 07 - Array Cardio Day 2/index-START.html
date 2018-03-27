@@ -67,8 +67,8 @@
     // comments.splice(index, 1);
 
     const newComments = [
-      comments.splice(0, index),
-      comments.splice(index + 1)
+      ...comments.splice(0, index),
+      ...comments.splice(index + 1)
     ];
 
   </script>
