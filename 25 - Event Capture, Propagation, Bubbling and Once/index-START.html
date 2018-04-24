@@ -41,12 +41,28 @@
 <script>
 
   const divs = document.querySelectorAll('div');
+  const button = document.querySelector('button');
 
   function logText(e) {
     console.log(this.classList.value);
+    // e.stopPropagation();
   }
 
-  divs.forEach(div => div.addEventListener('click', logText));
+  // document.body.addEventListener('click', logText);
+
+  divs.forEach(div => div.addEventListener('click', logText, {
+    capture: false,
+    once: true
+  }));
+
+  // once: binding itself is the same thing as saying remove event handler (helpful for things like store checkouts)
+
+  button.addEventListener('click', () => {
+    console.log('Click!!');
+  }, {
+    once: true
+  })
+
 
 </script>
 </body>
